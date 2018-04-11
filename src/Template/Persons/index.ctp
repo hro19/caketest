@@ -84,6 +84,8 @@ $humans = array(
     );
 echo $humans["name"];
 echo "<br>";
+echo $humans["age"].'歳';
+echo "<br>";
 
 
  ?>
